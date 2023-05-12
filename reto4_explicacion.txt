@@ -1,0 +1,2 @@
+El archivo Readme.md al revertir el commit se ha eliminado del repositorio.no aparece en el repositorio
+porque en ningun momento se hizo un push al repositorio, del commit en el que se incluyo el Readme.md
